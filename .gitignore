@@ -38,3 +38,8 @@ tests/_support/_generated
 
 #config
 /config/*
+
+#runtime
+/runtime
+/tests
+composer.lock
